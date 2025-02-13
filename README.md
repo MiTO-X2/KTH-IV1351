@@ -25,4 +25,4 @@
 ## 📬 Kontakt  
 📧 **Email:** [mfaik@kth.se](mailto:mfaik@kth.se)  
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mostafa-faik/)  
-🌐 **E-Portfolio:** [github.io/E-portfolio](https://your-github-username.github.io/E-portfolio/)  
+🌐 **E-Portfolio:** [github.io/E-portfolio](https://github.com/MiTO-X2/E-portfolio/tree/main)  
